@@ -1,0 +1,15 @@
+*
+!*/
+!*.*
+# Objetos y archivos de interfaz compilados
+*.cmi
+*.cmx
+*.cmo
+*.o
+*.obj
+
+# Archivos de dependencias y temporales
+*.a
+*.lib
+*.cmxa
+*.annot
