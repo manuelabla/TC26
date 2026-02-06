@@ -6,4 +6,6 @@
 
 ## P1
 
-### Ejercicio 1 : El programa enumera los $n$ primeros números racionales siguiendo el recorrido diagonal de una matriz para demostrar la bivalencia con los naturales. Permite elegir entre mostrar todas las fracciones resultantes (opción -a) o filtrar únicamente las irreducibles (opción -u) mediante el cálculo del máximo común divisor.
+### Ejercicio 1 .
+
+### El programa enumera los $n$ primeros números racionales siguiendo el recorrido diagonal de una matriz para demostrar la bivalencia con los naturales. Permite elegir entre mostrar todas las fracciones resultantes (opción -a) o filtrar únicamente las irreducibles (opción -u) mediante el cálculo del máximo común divisor.
