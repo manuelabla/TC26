@@ -26,7 +26,7 @@ let solve n =
   | (_, _, Down) -> if !u && mcd (max i j) (min i j) > 1 
                     then aux (i+1, j-1, Down) count 
                     else begin Printf.printf "%d/%d " i j ;
-                    aux (i+1, j-1, Down) (count + 1) end      (*(_, _, bajando) ↘*)
+                    aux (i+1, j-1, Down) (count + 1) end      (*(_, _, bajando) ↙*)
   in aux (1, 1, Up) 0                           
   
 let main =                                                   (*Función main*)
