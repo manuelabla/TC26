@@ -1,6 +1,6 @@
 # PRÁCTICAS DE TEORÍA DE LA COMPUTACIÓN 2025/26
 
-#![](https://st4.depositphotos.com/41097114/41409/i/450/depositphotos_414091358-stock-photo-bombe-device-used-codebreakers-world.jpg)
+![](https://st4.depositphotos.com/41097114/41409/i/450/depositphotos_414091358-stock-photo-bombe-device-used-codebreakers-world.jpg)
 
 ## Manuel Labella Blanco (manuelabla)
 
