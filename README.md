@@ -11,3 +11,7 @@
 ### Ejercicio 1.
 
 ### El programa enumera los $n$ primeros números racionales siguiendo el recorrido diagonal de una matriz para demostrar la bivalencia con los naturales. Permite elegir entre mostrar todas las fracciones resultantes (opción -a) o filtrar únicamente las irreducibles (opción -u) mediante el cálculo del máximo común divisor.
+
+### Ejercicio 2.
+
+### El programa enumera los n primeros teoremas del sistema formal **mg~** , asegurando una generación no sesgada para que cualquier teorema sea alcanzable. Los teoremas se construyen a partir de axiomas de la forma xm yg z (donde x, y y z son guiones y z = x + y). El programa debe admitir un número n como argumento.
