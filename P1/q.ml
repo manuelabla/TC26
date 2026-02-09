@@ -29,7 +29,7 @@ let solve n =
                     aux (i+1, j-1, Down) (count + 1) end      (*(_, _, bajando) ↙*)
   in aux (1, 1, Up) 0                           
   
-let main =                                                   (*Función main*)
+let main =                                                    (*Función main*)
  let speclist = [                                             (*Lista de flags*)
   ("-a", Arg.Set a, "Activa modo a");
   ("-u", Arg.Set u, "Activa modo unique");
