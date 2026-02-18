@@ -1,0 +1,4 @@
+Tiempo de q -u 10.000.000 
+real	0m22,429s
+user	0m22,416s
+sys	0m0,006s
