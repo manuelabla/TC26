@@ -15,3 +15,7 @@
 ### Ejercicio 2.
 
 ### El programa enumera los n primeros teoremas del sistema formal **mg~** , asegurando una generación no sesgada para que cualquier teorema sea alcanzable. Los teoremas se construyen a partir de axiomas de la forma xm yg z (donde x, y y z son guiones y z = x + y). El programa debe admitir un número n como argumento o, de forma opcional, actuar como un procedimiento de decisión que determine si una cadena dada pertenece al sistema.
+
+### Ejercicio 3.
+
+### El programa enumera los n primeros teoremas del sistema formal MIU, partiendo del axioma MI y aplicando sus cuatro reglas de producción (añadir 'U' al final, duplicar la cadena tras 'M', sustituir 'III' por 'U' y eliminar 'UU'). La implementación garantiza una generación exhaustiva y no sesgada para asegurar que cualquier teorema sea alcanzable.
